@@ -1,4 +1,3 @@
-
 package com.cg.statickeyword;
 public class Student {
 	
@@ -8,7 +7,7 @@ public class Student {
 	private static String collegename="XYZ";
 	
 	static {
-		collegename="GITAM";
+		collegename="MGM";
 	}
 	
 	//user defined parameterized constructor
