@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Collections/src"/>
+	<classpathentry kind="src" path="Day10/src"/>
+	<classpathentry kind="src" path="Day11/src"/>
+	<classpathentry kind="src" path="Day8/src"/>
+	<classpathentry kind="src" path="Day9/src"/>
+	<classpathentry kind="src" path="Dayfive/src"/>
+	<classpathentry kind="src" path="DayFour/src"/>
+	<classpathentry kind="src" path="Dayone/src"/>
+	<classpathentry kind="src" path="Days7/src"/>
+	<classpathentry kind="src" path="Daysix/src"/>
+	<classpathentry kind="src" path="daythree/src"/>
+	<classpathentry kind="src" path="Daytwo/src"/>
+	<classpathentry kind="src" path="ExceptionHandling/src"/>
+	<classpathentry kind="src" path="Javaprogram/src"/>
+	<classpathentry kind="src" path="MultiThreading/src"/>
+	<classpathentry kind="src" path="prafulproject/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
